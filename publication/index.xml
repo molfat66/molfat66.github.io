@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Academic</title>
+    <link>https://molfat66.github.io/publication/</link>
+    <description>Recent content in Publications on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://molfat66.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Convex formulations for fair principal component analysis</title>
+      <link>https://molfat66.github.io/publication/fpca/</link>
+      <pubDate>Thu, 15 Mar 2018 01:25:54 -0700</pubDate>
+      
+      <guid>https://molfat66.github.io/publication/fpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral algorithms for computing fair support vector machines</title>
+      <link>https://molfat66.github.io/publication/fsvm/</link>
+      <pubDate>Wed, 15 Mar 2017 01:25:50 -0700</pubDate>
+      
+      <guid>https://molfat66.github.io/publication/fsvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revolutionizing financial engineering education: Simulation-based strategies for learning</title>
+      <link>https://molfat66.github.io/publication/simedu/</link>
+      <pubDate>Fri, 15 Mar 2013 01:25:58 -0700</pubDate>
+      
+      <guid>https://molfat66.github.io/publication/simedu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
